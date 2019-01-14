@@ -1,0 +1,6 @@
+#!/bin/sh
+#my test program
+echo "Number of parameters is $#"
+echo "Program name is $0"
+echo "Parameters as a single string is $*"
+
